@@ -10,4 +10,4 @@ function minus() {
 function reset() {
     sum = 0;
     document.querySelector(".num span").innerHTML = sum;
-}
+} 
