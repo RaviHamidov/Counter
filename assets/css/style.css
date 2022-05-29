@@ -8,19 +8,19 @@ body {
     background-color: #E4E9F7;
 }
 
-.Logo {
+.logo {
     display: flex;
     justify-content: center;
     align-items: center;
     padding-top: 8%;
 }
 
-.Logo i {
+.logo i {
     font-size: 40px;
     margin-left: 1%;
 }
 
-.Main {
+.main {
     height: 70vh;
     display: flex;
     align-items: center;
@@ -28,7 +28,7 @@ body {
     text-align: center;
 }
 
-.MainContainer {
+.main-container {
     background-color: #11101D;
     width: 300px;
     height: 400px;
@@ -38,7 +38,7 @@ body {
     align-items: center;
 }
 
-.MainContainer .Num {
+.main-container .num {
     margin-right: 10%;
     width: 100px;
     height: 100px;
@@ -52,12 +52,12 @@ body {
     justify-content: center;
 }
 
-.MainContainer .Num span {
+.main-container .num span {
     font-size: 30px;
     color: #E4E9F7;
 }
 
-.ContainerItems button {
+.container-items button {
     width: 100px;
     height: 100px;
     box-sizing: border-box;
